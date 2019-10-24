@@ -1,5 +1,7 @@
 # how-to-git
 
+Alex
+
 A repoo with some branches and some pull requests designed to show how to:
 
 * Make good commits
